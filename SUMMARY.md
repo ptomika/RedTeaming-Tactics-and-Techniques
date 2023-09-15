@@ -1,10 +1,8 @@
 # Table of contents
 
-* [What is ired.team notes?](README.md)
-
 ## Pinned <a href="#offensive-security-experiments" id="offensive-security-experiments"></a>
 
-* [Pentesting Cheatsheets](offensive-security-experiments/offensive-security-cheetsheets/README.md)
+* [Pentesting Cheatsheets](README.md)
   * [SQL Injection & XSS Playground](offensive-security-experiments/offensive-security-cheetsheets/sql-injection-xss-playground.md)
 * [Active Directory & Kerberos Abuse](offensive-security-experiments/active-directory-kerberos-abuse/README.md)
   * [From Domain Admin to Enterprise Admin](offensive-security-experiments/active-directory-kerberos-abuse/child-domain-da-to-ea-in-parent-domain.md)
